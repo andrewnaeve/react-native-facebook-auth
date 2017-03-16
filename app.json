@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "14.0.0",
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    }
+  },
+  "name": "Flock",
+  "facebookScheme": "fb792634620885733"
+}
